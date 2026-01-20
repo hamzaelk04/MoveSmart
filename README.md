@@ -1,4 +1,4 @@
-# MoveSmart
+# Wanderly
 
 **Description du projet**
 
