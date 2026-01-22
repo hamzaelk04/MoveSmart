@@ -65,7 +65,7 @@ Cela permet aux touristes de mieux planifier leurs déplacements et aux organisa
 * **PHP**
   Développement côté serveur, gestion des utilisateurs, traitement des données et communication avec la base de données.
 
-* **Base de données MySQL** *(recommandée)*
+* **Base de données MySQL**
   Stockage des monuments historiques, événements (confirmés ou en attente), utilisateurs et statistiques.
 
 ---
